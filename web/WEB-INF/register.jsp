@@ -1,9 +1,3 @@
-<%-- 
-    Document   : register
-    Created on : 17-Oct-2022, 3:53:00 AM
-    Author     : user
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

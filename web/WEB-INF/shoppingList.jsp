@@ -1,9 +1,3 @@
-<%-- 
-    Document   : shoppingList
-    Created on : 17-Oct-2022, 3:52:46 AM
-    Author     : user
---%>
-
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!DOCTYPE html>
